@@ -37,3 +37,8 @@
 	path = it-brasil/purchase-workflow
 	url = git@github.com:it-brasil/purchase-workflow.git
 	branch = 14.0
+
+[submodule "it-brasil/odoo-sale-workflow"]
+	path = it-brasil/odoo-sale-workflow
+	url = git@github.com:it-brasil/odoo-sale-workflow.git
+	branch = 14.0
