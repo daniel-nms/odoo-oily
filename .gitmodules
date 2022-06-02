@@ -2,3 +2,8 @@
 	path = it-brasil/it_brasil
 	url = git@github.com:it-brasil/it_brasil.git
 	branch = main
+
+[submodule "it-brasil/l10n"]
+	path = it-brasil/l10n
+	url = git@github.com:it-brasil/it_brasil.git
+	branch = main
