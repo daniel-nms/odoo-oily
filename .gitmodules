@@ -12,3 +12,8 @@
 	path = it-brasil/odoo-account-payment
 	url = git@github.com:it-brasil/odoo-account-payment.git
 	branch = 14.0
+
+[submodule "it-brasil/odoo-bank-payment"]
+	path = it-brasil/odoo-bank-payment
+	url = git@github.com:it-brasil/odoo-bank-payment.git
+	branch = 14.0
