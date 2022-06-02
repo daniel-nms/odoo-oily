@@ -27,3 +27,8 @@
 	path = it-brasil/odoo-reporting-engine
 	url = git@github.com:it-brasil/odoo-reporting-engine.git
 	branch = 14.0
+
+[submodule "it-brasil/odoo-server-ux"]
+	path = it-brasil/odoo-server-ux
+	url = git@github.com:it-brasil/odoo-server-ux.git
+	branch = 14.0
