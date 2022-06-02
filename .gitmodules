@@ -17,3 +17,8 @@
 	path = it-brasil/odoo-bank-payment
 	url = git@github.com:it-brasil/odoo-bank-payment.git
 	branch = 14.0
+
+[submodule "it-brasil/odoo-mis-builder"]
+	path = it-brasil/odoo-mis-builder
+	url = git@github.com:it-brasil/odoo-mis-builder.git
+	branch = 14.0
