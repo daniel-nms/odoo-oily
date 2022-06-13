@@ -42,3 +42,8 @@
 	path = it-brasil/odoo-sale-workflow
 	url = git@github.com:it-brasil/odoo-sale-workflow.git
 	branch = 14.0
+
+[submodule "OCA/web"]
+	path = OCA/web
+	url = git@github.com:OCA/web.git
+	branch = 14.0
