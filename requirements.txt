@@ -1,0 +1,2 @@
+# generated from manifests external_dependencies
+git+https://github.com/it-brasil/erpbrasil.edoc.git@temp-nfe-ms#egg=erpbrasil.edoc
