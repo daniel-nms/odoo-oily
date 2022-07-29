@@ -10,12 +10,12 @@
 
 [submodule "it-brasil/odoo-account-payment"]
 	path = it-brasil/odoo-account-payment
-	url = git@github.com:it-brasil/odoo-account-payment.git
+	url = git@github.com:OCA/account-payment.git
 	branch = 14.0
 
 [submodule "it-brasil/odoo-bank-payment"]
 	path = it-brasil/odoo-bank-payment
-	url = git@github.com:it-brasil/odoo-bank-payment.git
+	url = git@github.com:OCA/bank-payment.git
 	branch = 14.0
 
 [submodule "it-brasil/odoo-mis-builder"]
@@ -25,12 +25,12 @@
 
 [submodule "it-brasil/odoo-reporting-engine"]
 	path = it-brasil/odoo-reporting-engine
-	url = git@github.com:it-brasil/odoo-reporting-engine.git
+	url = git@github.com:OCA/reporting-engine.git
 	branch = 14.0
 
 [submodule "it-brasil/odoo-server-ux"]
 	path = it-brasil/odoo-server-ux
-	url = git@github.com:it-brasil/odoo-server-ux.git
+	url = git@github.com:OCA/server-ux.git
 	branch = 14.0
 
 [submodule "it-brasil/purchase-workflow"]
@@ -40,7 +40,7 @@
 
 [submodule "it-brasil/odoo-sale-workflow"]
 	path = it-brasil/odoo-sale-workflow
-	url = git@github.com:it-brasil/odoo-sale-workflow.git
+	url = git@github.com:OCA/sale-workflow.git
 	branch = 14.0
 
 [submodule "OCA/web"]
