@@ -1,1 +1,1 @@
-# odoo-oily
+# Odoo Oily
