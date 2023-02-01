@@ -1,2 +1,2 @@
 git+https://github.com/it-brasil/erpbrasil.edoc.git@temp-nfe-ms#egg=erpbrasil.edoc
-nfelib==1.3.0
+git+https://github.com/itbrasil-odoo/nfelib.git@fix-export#egg=nfelib
