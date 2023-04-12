@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+
+    <record id="view_stock_picking_form_inherit" model="ir.ui.view">
+        <field name="name">stock.picking.form.inherit</field>
+        <field name="model">stock.picking</field>
+        <field name="inherit_id" ref="stock.view_picking_form" />
+        <field name="arch" type="xml">
+            <xpath expr="//field[@name='origin']" position="after">
+                <field name="landed_cost_id" />
+            </xpath>
+            <xpath expr="//header" position="inside">
+                <button name="action_create_landed_cost"
+                    string="Adicionar Custos"
+                    type="object"
+                    class="btn-primary"
+                    attrs="{'invisible': ['|', ('state', '!=', 'done'), ('landed_cost_id', '!=', False)]}" />
+            </xpath>
+
+        </field>
+    </record>
+
+    <record id="action_stock_picking_create_landed_cost" model="ir.actions.act_window">
+        <field name="name">Adicionar Custos</field>
+        <field name="res_model">stock.picking</field>
+        <field name="view_mode">form</field>
+        <field name="target">current</field>
+        <field name="type">ir.actions.act_window</field>
+    </record>
+
+
+</odoo>
