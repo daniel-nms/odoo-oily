@@ -1,2 +1,5 @@
-git+https://github.com/it-brasil/erpbrasil.edoc.git@temp-nfe-ms#egg=erpbrasil.edoc
-git+https://github.com/itbrasil-odoo/nfelib.git@fix-export#egg=nfelib
+# git+https://github.com/it-brasil/erpbrasil.edoc.git@temp-nfe-ms#egg=erpbrasil.edoc
+# git+https://github.com/itbrasil-odoo/nfelib.git@fix-export#egg=nfelib
+nfelib>=2.0.0
+erpbrasil.assinatura>=1.7.0
+erpbrasil.edoc>=2.5.2

@@ -56,3 +56,7 @@
 	path = itbrasil/l10n-brazil-extended
 	url = git@github.com:itbrasil-odoo/l10n-brazil-extended
 	branch = 14.0
+[submodule "OCA/stock-logistics-workflow"]
+	path = OCA/stock-logistics-workflow
+	url = git@github.com:OCA/stock-logistics-workflow
+	branch = 14.0
