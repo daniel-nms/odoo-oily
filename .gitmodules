@@ -1,7 +1,7 @@
 [submodule "it-brasil/l10n"]
 	path = it-brasil/l10n
-	url = git@github.com:it-brasil/it_brasil.git
-	branch = 14.0-97eb83a
+	url = git@github.com:OCA/l10n-brazil.git
+	branch = 14.0
 
 [submodule "it-brasil/odoo-account-payment"]
 	path = it-brasil/odoo-account-payment
