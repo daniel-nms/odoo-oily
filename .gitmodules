@@ -60,3 +60,7 @@
 	path = OCA/stock-logistics-workflow
 	url = git@github.com:OCA/stock-logistics-workflow
 	branch = 14.0
+[submodule "OCA/account-invoicing"]
+	path = OCA/account-invoicing
+	url = git@github.com:OCA/account-invoicing
+	branch = 14.0
