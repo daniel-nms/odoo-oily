@@ -57,3 +57,7 @@
 	path = it-brasil/l10n-brazil-extended
 	url = git@github.com:itbrasil-odoo/l10n-brazil-extended
 	branch = 14.0
+[submodule "OCA/account-reconcile"]
+	path = OCA/account-reconcile
+	url = git@github.com:OCA/account-reconcile.git
+	branch = 14.0
