@@ -65,3 +65,7 @@
 	path = OCA/contract
 	url = git@github.com:OCA/contract.git
 	branch = 14.0
+[submodule "OCA/currency"]
+	path = OCA/currency
+	url = git@github.com:OCA/currency.git
+	branch = 14.0
