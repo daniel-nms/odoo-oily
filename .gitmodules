@@ -69,3 +69,7 @@
 	path = OCA/currency
 	url = git@github.com:OCA/currency.git
 	branch = 14.0
+[submodule "OCA/delivery-carrier"]
+	path = OCA/delivery-carrier
+	url = git@github.com:OCA/delivery-carrier.git
+	branch = 14.0
