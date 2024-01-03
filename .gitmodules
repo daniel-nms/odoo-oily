@@ -61,3 +61,7 @@
 	path = OCA/account-reconcile
 	url = git@github.com:OCA/account-reconcile.git
 	branch = 14.0
+[submodule "OCA/contract"]
+	path = OCA/contract
+	url = git@github.com:OCA/contract.git
+	branch = 14.0
